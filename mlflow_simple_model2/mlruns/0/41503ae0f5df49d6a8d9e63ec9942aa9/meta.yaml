@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/MlFlow/mlflow_simple_model2/mlruns/0/41503ae0f5df49d6a8d9e63ec9942aa9/artifacts
+end_time: 1691192293302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41503ae0f5df49d6a8d9e63ec9942aa9
+run_name: calm-conch-381
+run_uuid: 41503ae0f5df49d6a8d9e63ec9942aa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691192288310
+status: 3
+tags: []
+user_id: navee

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/MlFlow/mlflflow_simple_model/mlruns/0/4fd6fc70507b4d83a2f7505eabc25112/artifacts
+end_time: 1691190444856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fd6fc70507b4d83a2f7505eabc25112
+run_name: bemused-trout-834
+run_uuid: 4fd6fc70507b4d83a2f7505eabc25112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691190444809
+status: 3
+tags: []
+user_id: navee

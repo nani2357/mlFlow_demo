@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/MlFlow/mlflflow_simple_model/mlruns/0/694e0daf0787492988b907a99bbdc8a1/artifacts
+end_time: 1691190167511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 694e0daf0787492988b907a99bbdc8a1
+run_name: clumsy-bat-696
+run_uuid: 694e0daf0787492988b907a99bbdc8a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691190167458
+status: 3
+tags: []
+user_id: navee
