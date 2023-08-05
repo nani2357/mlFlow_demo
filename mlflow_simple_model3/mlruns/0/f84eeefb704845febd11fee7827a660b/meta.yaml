@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/MlFlow/mlflow_simple_model3/mlruns/0/f84eeefb704845febd11fee7827a660b/artifacts
+end_time: 1691194073667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f84eeefb704845febd11fee7827a660b
+run_name: bemused-kite-552
+run_uuid: f84eeefb704845febd11fee7827a660b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691194070026
+status: 3
+tags: []
+user_id: navee

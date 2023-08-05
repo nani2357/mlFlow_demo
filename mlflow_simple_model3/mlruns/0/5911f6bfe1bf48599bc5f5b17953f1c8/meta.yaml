@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/MlFlow/mlflow_simple_model3/mlruns/0/5911f6bfe1bf48599bc5f5b17953f1c8/artifacts
+end_time: 1691193906753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5911f6bfe1bf48599bc5f5b17953f1c8
+run_name: gifted-smelt-466
+run_uuid: 5911f6bfe1bf48599bc5f5b17953f1c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691193902915
+status: 3
+tags: []
+user_id: navee

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/MlFlow/mlflow_simple_model3/mlruns/0/0c72c8f5f51e459782ecb520dd79ebf8/artifacts
+end_time: 1691193985830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c72c8f5f51e459782ecb520dd79ebf8
+run_name: serious-rat-744
+run_uuid: 0c72c8f5f51e459782ecb520dd79ebf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691193981794
+status: 3
+tags: []
+user_id: navee

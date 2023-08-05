@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/MlFlow/mlflow_simple_model3/mlruns/0/7c062bed5ff14a8e8266d72596d87849/artifacts
+end_time: 1691194000539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c062bed5ff14a8e8266d72596d87849
+run_name: caring-toad-909
+run_uuid: 7c062bed5ff14a8e8266d72596d87849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691193996761
+status: 3
+tags: []
+user_id: navee

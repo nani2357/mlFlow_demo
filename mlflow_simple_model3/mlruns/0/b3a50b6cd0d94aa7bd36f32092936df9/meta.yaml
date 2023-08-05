@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/MlFlow/mlflow_simple_model3/mlruns/0/b3a50b6cd0d94aa7bd36f32092936df9/artifacts
+end_time: 1691193946823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3a50b6cd0d94aa7bd36f32092936df9
+run_name: thundering-pig-200
+run_uuid: b3a50b6cd0d94aa7bd36f32092936df9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691193942467
+status: 3
+tags: []
+user_id: navee

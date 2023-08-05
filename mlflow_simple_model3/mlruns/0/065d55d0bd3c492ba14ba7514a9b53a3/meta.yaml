@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/MlFlow/mlflow_simple_model3/mlruns/0/065d55d0bd3c492ba14ba7514a9b53a3/artifacts
+end_time: 1691193993316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 065d55d0bd3c492ba14ba7514a9b53a3
+run_name: awesome-mule-680
+run_uuid: 065d55d0bd3c492ba14ba7514a9b53a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691193989544
+status: 3
+tags: []
+user_id: navee

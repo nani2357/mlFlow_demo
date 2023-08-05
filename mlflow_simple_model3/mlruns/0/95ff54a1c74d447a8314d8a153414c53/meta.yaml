@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/MlFlow/mlflow_simple_model3/mlruns/0/95ff54a1c74d447a8314d8a153414c53/artifacts
+end_time: 1691194066324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95ff54a1c74d447a8314d8a153414c53
+run_name: agreeable-stag-519
+run_uuid: 95ff54a1c74d447a8314d8a153414c53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691194062591
+status: 3
+tags: []
+user_id: navee
